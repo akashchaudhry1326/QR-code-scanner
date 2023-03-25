@@ -9,7 +9,7 @@
     <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
 
 <div class="form">
-  <h1>QR Code Generator</h1>
+  <h2>QR Code Generator</h2>
   <form>
     <input type="url" id="website" name="website" placeholder="https://webisora.com" required />
 
